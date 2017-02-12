@@ -2,6 +2,7 @@
 
 ## Challenges
 1) Setup dev environment
+
 2) Write HelloWorld
 ```
 go run helloworld.go
